@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        File file = new File("gwerg.txt");
+        File file = new File("input.txt");
         Scanner sc = new Scanner(file);
         int valid = 0;
 
